@@ -1,0 +1,6 @@
+{
+	"atlas-link" : "mongodb+srv://rutuparn_2000:meowmeow@cluster0.dzwp1wc.mongodb.net/?retryWrites=true&w=majority",
+	"db" : "Mousecap",
+	"users-collection" : "user-data",
+	"chats-collection" : "chat-data"
+}
